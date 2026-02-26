@@ -2,7 +2,8 @@ streamlit
 PyPDF2
 langchain
 langchain-openai
+langchain-text-splitters
 sentence-transformers
+pydantic==2.9.2
 faiss-cpu
 tiktoken
-python-dotenv
