@@ -1,5 +1,9 @@
 # 📄 🚀 PDF 문서 AI 요약 서비스 (PDF Summary App)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf-summary-app-pa9iqvg3d4gsnecjbrvw5t.streamlit.app/)
+
+> 🔗 **서비스 링크:** https://pdf-summary-app-pa9iqvg3d4gsnecjbrvw5t.streamlit.app/
+
 사용자가 PDF 문서를 업로드하면, AI가 문서의 내용을 분석하여 **핵심 내용을 3~5문장의 자연스러운 한국어 문장으로 자동 요약**해 주는 웹 서비스입니다.
 
 ## 🌟 주요 기능
